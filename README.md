@@ -1,14 +1,13 @@
-         ___        ______     ____ _                 _  ___  
-        / \ \      / / ___|   / ___| | ___  _   _  __| |/ _ \ 
-       / _ \ \ /\ / /\___ \  | |   | |/ _ \| | | |/ _` | (_) |
-      / ___ \ V  V /  ___) | | |___| | (_) | |_| | (_| |\__, |
-     /_/   \_\_/\_/  |____/   \____|_|\___/ \__,_|\__,_|  /_/ 
- ----------------------------------------------------------------- 
+# Playing With Responsive Design
 
+Welcome!
 
-Hi there! Welcome to AWS Cloud9!
+This website was built as part of the learning material for Code Institute's Fullstack Web Developer program.
 
-To get started, create some files, play with the terminal,
-or visit https://docs.aws.amazon.com/console/cloud9/ for our documentation.
+You can check out the website [here](https://grisselfaura.github.io/my-first-website/)!
 
-Happy coding!
+## Project Description
+This site was created in order to get familiar with responsive design like mobile and deskptop layout approach. 
+
+## Technology
+This project was written in HTML & CSS using Cloud9 and is currently hosted on GitHub pages.
