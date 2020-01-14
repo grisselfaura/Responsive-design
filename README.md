@@ -4,7 +4,7 @@ Welcome!
 
 This website was built as part of the learning material for Code Institute's Fullstack Web Developer program.
 
-You can check out the website [here](https://grisselfaura.github.io/my-first-website/)!
+You can check out the website [here](https://grisselfaura.github.io/Responsive-design/)!
 
 ## Project Description
 This site was created in order to get familiar with responsive design like mobile and deskptop layout approach. 
